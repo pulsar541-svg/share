@@ -10,8 +10,6 @@
 
 using namespace std;
 
-// gggggggggggggggggggggggg
-
 float crossX;
 float crossY;
 int winW = 1280;
